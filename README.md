@@ -1,6 +1,10 @@
 this  is the change done by venu
 this is the change after push by venu
+<<<<<<< HEAD
 clear test
+=======
+this change done by murali
+>>>>>>> 685e0e6786063414960cb0fb631b560b184ae065
 
 
 
